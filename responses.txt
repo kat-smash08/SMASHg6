@@ -1,3 +1,4 @@
 my first response file
 
-hi
+4. How can you make your games fun for players of different skill levels?
+> By creating a difficulty slope, we will allow players to progress at their own level. Additionally, providing hints or clues along the way will create a fun problem-solving and critical thinking experience to discover and investigate.
